@@ -1,0 +1,16 @@
+.footer-style{
+    background-color: #1876D1;
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 7em;;
+    padding: 2em;
+    flex-wrap: wrap;
+    text-decoration: none;
+    
+}
+
+.div-style{
+    color:rgb(122, 24, 122);
+    padding:1em;
+    margin-top: 5em;
+}
